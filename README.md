@@ -1,1 +1,1 @@
-JS for newbie. Day-1
+JS for newbie. Day-2
